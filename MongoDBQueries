@@ -1,4 +1,3 @@
-
 1. db.people.find()
 2. db.people.countDocuments()
 3. db.people.find({"state": "Arizona"})
